@@ -1,9 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif"/>
+<div id="header" align="center" >
+  <img height=20%; width=20%; src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 </div>
+  <br>
 <div align="center">
-  Hey! My name is <i>Jonathan Perez</i>, I was born in Ponce, Puerto Rico and I'm currently a student at <i>Holberton Coding School</i>.
-</div>
+  Hey! My name is <i>Jonathan Perez</i> and I'm currently a student at <i>Holberton Coding School</i>. </div>
 
 <!--
 **prodjohnper/prodjohnper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
