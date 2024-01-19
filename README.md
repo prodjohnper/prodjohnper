@@ -5,17 +5,6 @@
 </div>
   <br>
 
-<!-- Contact me -->
-<div align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=jonathanperez9743@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  <a href="www.linkedin.com/in/jonathan-pérez-correa">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div>
-<!--
-
 <!-- About me -->
 ## :grin: About me
 - :round_pushpin: From Ponce, Puerto Rico.
@@ -34,7 +23,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!-- IDE's -->
-## IDE's
+## :keyboard: IDE's
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![README](https://img.shields.io/badge/ReadMe-018EF5.svg?style=for-the-badge&logo=ReadMe&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<!-- Contact me -->
+## :envelope_with_arrow: Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanperez9743@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prodjohnper)
+<!--
