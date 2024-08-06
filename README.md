@@ -38,7 +38,7 @@
 ## :crayon: UI & Libraries
 
 <!-- Libraries -->
-### Libraries
+#### Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=222222&logo=react&logoColor=%2361DAF)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 
