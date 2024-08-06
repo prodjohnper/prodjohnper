@@ -8,8 +8,8 @@
 
 <!-- About me -->
 ## :information_source: About me
-- 👨🏻‍💻 Software Engineer | Web Developer
-- :round_pushpin: Ponce, Puerto Rico.
+👨🏻‍💻 Software Engineer | Web Developer  
+:round_pushpin: Ponce, Puerto Rico.
 
 <!-- Technologies -->
 ## :hammer_and_wrench: Technologies
