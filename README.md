@@ -65,6 +65,7 @@
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=222222&logo=Framer&logoColor=white&label=)
+![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=222222&logo=shadcn%2Fui&logoColor=white&label=)
 
 <!-- Contact me -->
 ## :envelope_with_arrow: Contact
