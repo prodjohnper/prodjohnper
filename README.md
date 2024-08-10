@@ -84,6 +84,20 @@ Take a look at my website!
   
 [![Take me there!](https://img.shields.io/badge/prodjohnper.com-dddddd?style=for-the-badge&color=222222&logoColor=%23000000)](https://prodjohnper.com/)
 
+<!-- Blog Posts -->
+
+##
+
+<details>
+<summary>Take a look at my latest blog post</summary>
+<br>
+<div>
+
+[![Jonathan Perez Medium](https://github-readme-medium.vercel.app/?username=prodjohnper&limit=1&bg=222222&text=lightgray)](https://medium.com/@prodjohnper)
+
+</div>
+</details>
+
 <!--  
       Jonathan Perez
       @prodjohnper
