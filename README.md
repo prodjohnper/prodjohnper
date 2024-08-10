@@ -32,8 +32,8 @@
 
 <!-- Databases -->
 ### Databases
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=222222&logo=MySQL&logoColor=white&label=)
 ![SQLAlchemy](https://img.shields.io/static/v1?style=for-the-badge&message=SQLAlchemy&color=222222&logo=SQLAlchemy&logoColor=white&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=222222&logo=MySQL&logoColor=white&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=222222&logo=PostgreSQL&logoColor=blue&label=)
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 
@@ -47,8 +47,8 @@
 <!-- Components -->
 #### Components
 
-![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=222222&logo=shadcn%2Fui&logoColor=white&label=)
 ![DaisyUI](https://img.shields.io/static/v1?style=for-the-badge&message=DaisyUI&color=222222&logo=DaisyUI&logoColor=white&label=)
+![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=222222&logo=shadcn%2Fui&logoColor=white&label=)
 
 <!-- Animations -->
 #### Animations
