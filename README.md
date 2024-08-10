@@ -53,7 +53,7 @@
 <!-- Animations -->
 #### Animations
 
-![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=222222&logo=Framer&logoColor=white&label=)
+![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer-Motion&color=222222&logo=Framer&logoColor=white&label=)
 
 <!-- IDE's -->
 ## :keyboard: IDE's
@@ -66,9 +66,9 @@
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Fiber&color=222222&logo=Go&logoColor=white&label=)
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3FCF8E&label=)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&color=222222&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=222222&logo=react&logoColor=%2361DAF)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=222222&logo=react&logoColor=%2361DAF)  
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer&color=222222&logo=Framer&logoColor=white&label=)
+![Framer](https://img.shields.io/static/v1?style=for-the-badge&message=Framer-Motion&color=222222&logo=Framer&logoColor=white&label=)
 ![shadcn/ui](https://img.shields.io/static/v1?style=for-the-badge&message=shadcn%2Fui&color=222222&logo=shadcn%2Fui&logoColor=white&label=)
 
 <!-- Contact me -->
